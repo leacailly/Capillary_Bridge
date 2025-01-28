@@ -19,7 +19,7 @@ from segment_profiles.tools import (
     most_common_image_format,
 )
 
-matplotlib.use("Qt5Agg")
+# matplotlib.use("Qt5Agg")
 
 colors = ["blue", "orange"]
 

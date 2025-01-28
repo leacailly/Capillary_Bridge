@@ -1,7 +1,7 @@
 import matplotlib
 import matplotlib.pyplot as plt
 
-matplotlib.use("Qt5Agg")
+# matplotlib.use("Qt5Agg")
 import numpy as np
 from skimage import measure
 from skimage.color import rgb2gray
